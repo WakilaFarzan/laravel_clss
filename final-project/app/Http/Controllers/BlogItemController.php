@@ -13,7 +13,7 @@ class BlogItemController extends Controller {
 
     public function index(){
 
-        return view('page_blog_item');
+        return view('blog/index');
     }
 
 } 
